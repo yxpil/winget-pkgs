@@ -1,5 +1,7 @@
 # winget 清单：yxpil.bit 0.4.9
 # 提交到 microsoft/winget-pkgs：manifests/y/yxpil/bit/0.4.9/
+PackageIdentifier: yxpil.bit
+PackageVersion: 0.4.9
 Installers:
 - InstallerLocale: en-US
   Architecture: x64
